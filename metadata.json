@@ -1,0 +1,6 @@
+{
+  "name": "E-Cell TAE - Entrepreneurship Cell & Team",
+  "description": "Interactive portal for The Entrepreneurship Cell at Trinity Academy of Engineering, Pune featuring anti-gravity draggable team cards, milestones, initiatives, and founder spotlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
